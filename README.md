@@ -18,7 +18,7 @@
 
 
     - csv構成
-    
+
     |||
     |-|-|
     |第１カラム | EPC
@@ -47,7 +47,7 @@
 
 #### 2. CsvファイルをAndroid端末に転送
 
-1. 下記リンクを参考に、作成したcsvをAndroid端末に転送します。
+1. 下記リンクを参考に、作成したcsvをAndroid端末に転送します。<br/>
    [コンピュータとAndroid デバイス間のファイル転送を有効にする](https://github.com/shimauma-giken/Zebra-Android_Transfer-Files-Between-Computer-and-Android-Device)
 
 
@@ -56,6 +56,7 @@
 1. Google Play 経由で123RFID Mobile をインストールします。
 2. 123RFIDにてリーダーに接続します。
 3. [Settings] > [Application] > [Tag List Match Mode]を選択します。
+
    <img width="250px" src=".\image-4.png">
     <br/>   
 4. 上記手順で作成したcsvファイルを選択します。
