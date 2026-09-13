@@ -60,6 +60,7 @@
    <img width="250px" src=".\image-4.png">
     <br/>   
 4. 上記手順で作成したcsvファイルを選択します。
+
     <img width="250px" src=".\image-1.png">
     <br/>
 1. [RFID] タブを選択し、読み取りを開始すると、Tag List Match Modeでインベントリを開始します。
